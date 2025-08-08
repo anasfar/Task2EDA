@@ -1,5 +1,5 @@
 
-# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+# 🚢 Titanic Dataset Exploratory Data Analysis (EDA)
 
 This repository contains a Jupyter Notebook that performs detailed **Exploratory Data Analysis (EDA)** on the classic **Titanic: Machine Learning from Disaster** dataset from Kaggle.
 
