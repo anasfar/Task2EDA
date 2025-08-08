@@ -41,6 +41,17 @@ Make sure the dataset is in the same directory as the notebook.
 - Correlation Heatmap
 - Survival by Gender and Embarkation Port
 
+## Here are some visualizations
+
+### 🎯 Survival Rate by Passenger Class
+![Survival by Class](images/p1.png)
+
+### 🧠 Correlation Heatmap
+![Correlation Heatmap](images/p2.png)
+
+### 📈 Survival Rate by class and gender
+![Class & Gender](images/p3.png)
+
 ---
 
 ## 📝 License
